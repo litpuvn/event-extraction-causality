@@ -1,2 +1,2 @@
-### Annotation Descrepency Resolution Tool 
+### Annotation Discrepancy Resolution Tool 
 
